@@ -1,0 +1,22 @@
+aside{
+	padding-top:50px;
+	width:320px;
+	height:100%;
+	position:fixed;
+	top:0;
+	bottom:0;
+	background: #fafafa;
+}
+.right{
+	width:calc(100% - 340px);
+	float:right;
+	padding:10px;
+	box-sizing:border-box;
+}
+.right ul{
+	margin:20px;
+	padding:0;
+}
+a.active{
+	color:#f80;
+}
